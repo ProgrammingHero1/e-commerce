@@ -1,0 +1,35 @@
+.header-section{
+     background-image: url(../images/header.jpg);
+     background-repeat: no-repeat;
+}
+.card-header{
+     text-align: center;
+     color: #fff;
+     background-color: #0000001a;
+}
+ .bg-gradient1{background: linear-gradient(45deg, #f54ea2, #ff7676);}
+ .bg-gradient2{background: linear-gradient(45deg, #ca3cf8, #00BCD4);}
+ .bg-gradient3{background: linear-gradient(45deg, #36a1ff, #16c7dd);}
+ .bg-gradient4{background: linear-gradient(45deg, #ff479c, #ffac11);}
+
+ .up-comming-img{
+     background-image: url(../images/banner/banner-1.jpg);
+     height: 100%;
+}
+.carousel-caption{top: 0;}
+
+ .card-title{
+     background-color: #f6f6f6;
+     padding: 10px;
+}
+ .card-img {
+     margin: 0px auto;
+     width: 85%;
+}
+ .btn-danger {
+     padding: 3px 8px;
+}
+ .footer-section{
+     background-color: #35064c;
+     color: #dfdfdf;
+}
